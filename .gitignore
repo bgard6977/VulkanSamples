@@ -36,3 +36,9 @@ build-android/external
 *.files
 *.includes
 *.autosave
+
+# CLion
+*.ipr
+*.iml
+*.iws
+.idea/
